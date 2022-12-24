@@ -1,2 +1,4 @@
 python-dotenv==0.21.0
 discord.py==2.1.0
+yt-dlp==2022.11.11
+youtube-dl==2021.12.17

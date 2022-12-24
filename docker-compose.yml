@@ -18,3 +18,4 @@ services:
     command: sh ./bin/entrypoint_dev.sh
     volumes:
       - .:/var/app:delegated
+      - ./tmp:/tmp
