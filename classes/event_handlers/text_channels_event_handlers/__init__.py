@@ -1,1 +1,1 @@
-__all__ = ["greeting_handler"]
+__all__ = ["greeting_handler", "worms_handler",]

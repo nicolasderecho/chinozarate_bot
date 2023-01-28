@@ -9,7 +9,8 @@ class GreetingHandler(EventResponser):
           'Aloja!! Aguante Allboys!!!',
           '¿Qué acelga?',
           '¿Todo bien?',
-          '¿Todo tranca?'
+          '¿Todo tranca?',
+          f"¿Como va {self.event.author.mention}?"
         ]
     
     async def reply(self):
