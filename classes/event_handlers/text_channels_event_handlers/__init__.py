@@ -1,1 +1,1 @@
-__all__ = ["greeting_handler", "worms_handler", "commands_handler", "bulk_delete_handler", "counter_strike_commands_handler"]
+__all__ = ["greeting_handler", "worms_handler", "commands_handler", "bulk_delete_handler", "counter_strike_commands_handler", "counter_strike_server_handler"]
