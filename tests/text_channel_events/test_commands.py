@@ -3,7 +3,7 @@ import re
 from classes.application import Application, on_discord_message_received
 from tests.support.mocks_factory import *
 
-def test_worms_message(mocker):
+def test_commands_message(mocker):
     app = Application(createBotClient(), "test-token")
     channel = createChannel(mocker.Mock())
     message = "!comandos"
