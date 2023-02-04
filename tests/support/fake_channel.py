@@ -6,3 +6,7 @@ class FakeChannel():
     async def send(self, *args):
         self.mock(*args)
         print("Fake channel received a command")
+        
+    async def purge(self, **kwargs):
+        self.mock("purge")
+        print("Fake purge called")
