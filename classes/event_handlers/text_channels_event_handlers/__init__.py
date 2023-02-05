@@ -9,4 +9,5 @@ __all__ = ["greeting_handler",
            "google_drive_lpf_handler",
            "half_life_handler",
            "hangout_handler",
-           "radmin_handler"]
+           "radmin_handler", 
+           "thanks_handler"]
