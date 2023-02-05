@@ -7,4 +7,5 @@ __all__ = ["greeting_handler",
            "games_lpf_handler",
            "diablo_lpf_handler",
            "google_drive_lpf_handler",
-           "half_life_handler"]
+           "half_life_handler",
+           "hangout_handler"]
