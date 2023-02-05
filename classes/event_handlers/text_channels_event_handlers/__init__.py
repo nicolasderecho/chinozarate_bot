@@ -10,4 +10,5 @@ __all__ = ["greeting_handler",
            "half_life_handler",
            "hangout_handler",
            "radmin_handler", 
-           "thanks_handler"]
+           "thanks_handler",
+           "clean_messages_handler"]
